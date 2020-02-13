@@ -1,6 +1,7 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  shoe_colors ={"Nike"=> "Gray", "Converse" => "Black", "Cole Haans" => "Brown"} 
+  
   
 end
 
